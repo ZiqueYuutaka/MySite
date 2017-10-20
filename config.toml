@@ -4,3 +4,10 @@ title = "My New Hugo Site"
 theme = "docdock"
 contentDir = "content"
 layoutDir = "layouts"
+
+[[menu.shortcuts]]
+pre = "<h3>ABOUT</h3>"
+name = "about"
+identifier = "ab"
+url = "http://example.org/about"
+weight = 1
