@@ -6,8 +6,7 @@ contentDir = "content"
 layoutDir = "layouts"
 
 [[menu.shortcuts]]
-pre = "<h3>ABOUT</h3>"
-name = "about"
-identifier = "ab"
-url = "http://example.org/about"
+name = "EXTRA"
+identifier = "ex"
+url = "https://www.google.com"
 weight = 1
